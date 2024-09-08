@@ -1,15 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>gallery test</title>
-    <url>/2024/09/07/gallery-test/</url>
-    <content><![CDATA[<p>放入了一个笑脸作为gallery的test</p>
-]]></content>
-      <categories>
-        <category>gallery</category>
-      </categories>
-  </entry>
-  <entry>
     <title>无所事事的下午</title>
     <url>/2024/08/22/%E6%97%A0%E6%89%80%E4%BA%8B%E4%BA%8B%E7%9A%84%E4%B8%8B%E5%8D%88/</url>
     <content><![CDATA[<p>进厂打螺丝的一天，然而没有事情做。中午毅然而然决定和同事跑路，吃了一顿牛肉火锅，尽兴而归。</p>
@@ -60,6 +51,15 @@
 ]]></content>
       <categories>
         <category>Book</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>gallery test</title>
+    <url>/2024/09/07/gallery-test/</url>
+    <content><![CDATA[<p>放入了一个笑脸作为gallery的test</p>
+]]></content>
+      <categories>
+        <category>gallery</category>
       </categories>
   </entry>
 </search>
